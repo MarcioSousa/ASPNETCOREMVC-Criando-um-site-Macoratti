@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\imagens\\Envelope-icon24.png"
+    },
+    {
+      "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\Full-Cart-icon.png",
+      "PackagePath": "staticwebassets\\imagens\\Full-Cart-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\imagens\\Home-iconred.png"
+    },
+    {
+      "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\imagens\\cart-5-16.ico"
+    },
+    {
+      "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\delete.png",
+      "PackagePath": "staticwebassets\\imagens\\delete.png"
+    },
+    {
+      "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\faleconosco1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\lanche1.jpeg",
       "PackagePath": "staticwebassets\\imagens\\lanche1.jpeg"
     },
@@ -23,6 +47,14 @@
     {
       "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\lanche3.jpeg",
       "PackagePath": "staticwebassets\\imagens\\lanche3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\imagens\\phone-app-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\imagens\\remove.ico",
+      "PackagePath": "staticwebassets\\imagens\\remove.ico"
     },
     {
       "Id": "C:\\Users\\Marcio\\source\\repos\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
